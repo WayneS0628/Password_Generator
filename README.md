@@ -1,5 +1,9 @@
 This is a Password_Generator
 
+What does it do?
+
+It generates a random password that is 15 charachters long with a dash after the 5th and 10th chrachter
+Like so: 42O77-olL7i-IsVv2
 Use it as you please
 
 How it works?
